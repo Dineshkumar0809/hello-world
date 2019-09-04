@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+just another repository\n
+how about a new project
